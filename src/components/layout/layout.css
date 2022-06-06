@@ -1,0 +1,9 @@
+.container-layout{
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: slategrey;
+    height: 400px;
+    width: 400px;
+}
